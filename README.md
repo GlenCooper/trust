@@ -1,5 +1,5 @@
 # trust
-I, Glen Cooper, started this github repository on 20190403T0416Z.  See https://timestamps.glencooper.com for the format all of my timestamps use.
+I started this github repository on 20190403T0416Z.  See https://timestamps.glencooper.com for the format all of my timestamps use.
 
 My intention of starting this repository was twofold;
 1) learn how to use github pages.
