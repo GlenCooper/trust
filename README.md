@@ -7,3 +7,4 @@ My intention of starting this repository was twofold;
 
 This repository will be k̶i̶l̶l̶i̶n̶g̶ knocking out two birds with one stone.
 
+Current price of bitcoin (BTC) is 9115 and rising.
